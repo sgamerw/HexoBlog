@@ -1,0 +1,3 @@
+[submodule "themes/maupassant"]
+        path = themes/maupassant
+            url = git@github.com:sgamerw/maupassant-hexo.git
