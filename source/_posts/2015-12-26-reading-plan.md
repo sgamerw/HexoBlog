@@ -2,7 +2,6 @@
 layout:     post
 title:      2016年书单
 date:    2015-12-26 12:00:00   
-updated: 2016-01-28 12:00:00
 tags:
     - 读书
 ---
