@@ -5,6 +5,7 @@ toc: false
 comments: true
 date: 2015-08-06 16:17:20
 tags:
+- shell
 ---
 工作中需要拷贝资源，但是不需要拷贝文件夹中的「**.svn**」隐藏文件。
 
