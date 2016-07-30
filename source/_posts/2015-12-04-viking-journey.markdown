@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Viking's Journey:The Road to Valhalla"
-description: 最近在玩的这款「Viking's Journey」和以前玩过的「[dungelot]」是一个公司出的。我就是通过查看开发人员其它APP来挖出来的。果不其然，这款游戏和「dungelot」一样具有非常高的可玩性，说会上瘾也不为过。
+description: 最近在玩的这款「Viking's Journey」和以前玩过的「dungelot」是一个公司出的。我就是通过查看开发人员其它APP来挖出来的。果不其然，这款游戏和「dungelot」一样具有非常高的可玩性，说会上瘾也不为过。
 tags:
 - 拼命玩
 ---
