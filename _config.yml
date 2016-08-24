@@ -68,6 +68,9 @@ theme: maupassant
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
+- type: git
   repository: git@github.com:sgamerw/sgamerw.github.io.git
   branch: master
+- type: git
+  repository: git@git.coding.net:sgamerw/sgamerw.git
+  branch: coding-pages
