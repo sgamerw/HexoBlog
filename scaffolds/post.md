@@ -2,7 +2,7 @@
 title: {{ title }}
 date: {{ date }}
 layout: post
-toc: true
+toc: false
 comments: true
 tags:
 ---
