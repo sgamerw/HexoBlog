@@ -18,3 +18,4 @@ tags:
 [agentzh 的 Nginx 教程](https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html) | 100% | 教程就应该是这样，通过短小的实例验证自己的结论，技术学习也应该是这样，在使用技术过程中，不断验证、总结，经验就是这样积累。
 [OpenResty最佳实践](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details) | 25% |
 [pure mvc 实现术语阐述及最佳实践](http://puremvc.org/docs/PureMVC_IIBP_Chinese.pdf) | 100% | 很简短也很清晰，对使用 MVC 有各种不同的见解，我比较赞同 M 和 V 互不持有，甚至 V 不监听 M 的通知，因为游戏开发中有很多数据更新和界面刷新不同步的情况。
+[Go语言圣经](http://gopl-zh.b0.upaiyun.com) | 100% | 第一次了解并发编程的相关细节，语言学习需要多实践，后端开发就从这里开始。
