@@ -8,7 +8,7 @@ tags:
     - 读书
 ---
 
-2017年继续记录自己读的书。
+2017年继续记录自己读的书。今年在网上读的网络媒介的书更多了。
 
 书名 | 进度 | 评注
 ----|:-----:|-----
@@ -17,6 +17,7 @@ tags:
 游戏改变世界 | 100% | 很多新颖的观点，读书笔记看[这里](/2017/02/19/talk-about-game-and-work)
 [agentzh 的 Nginx 教程](https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html) | 100% | 教程就应该是这样，通过短小的实例验证自己的结论，技术学习也应该是这样，在使用技术过程中，不断验证、总结，经验就是这样积累。
 [OpenResty最佳实践](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details) | 25% |
-[pure mvc 实现术语阐述及最佳实践](http://puremvc.org/docs/PureMVC_IIBP_Chinese.pdf) | 100% | 很简短也很清晰，对使用 MVC 有各种不同的见解，我比较赞同 M 和 V 互不持有，甚至 V 不监听 M 的通知，因为游戏开发中有很多数据更新和界面刷新不同步的情况。
+[pure mvc 实现术语阐述及最佳实践](http://puremvc.org/docs/PureMVC_IIBP_Chinese.pdf) | 100% | 很简短也很清晰，对使用 MVC 有各种不同的见解，我比较赞同 M 和 V 互不持有，甚至 V 不监听 M 的通知，因为游戏开发中有很多[数据更新和界面刷新不同步](/2017/02/09/data-view-update-conflict)的情况。
 [Go语言圣经](http://gopl-zh.b0.upaiyun.com) | 100% | 第一次了解并发编程的相关细节，语言学习需要多实践，后端开发就从这里开始。
 写给男人的第一本怀孕书 | 100% | 很不错的一本小书，整个怀孕过程都很真实，讲述过程还挺幽默，看到最后生产，甚至还有点紧张，推荐备孕及怀孕期间的小俩口都看看。
+关于投资、商业、互联网的碎片化思考：老二非死不可 | 100% | 很接地气的碎片化思考，虽然是几年前的书了，但是思维方式还是能给予不少启发，推荐。
