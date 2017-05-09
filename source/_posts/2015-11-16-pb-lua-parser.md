@@ -8,6 +8,7 @@ tags:
 - lua
 ---
 公司开发有这么一个固定的流程，定下服务器和客户端的协议之后，需要把 protobuf 的 message 结构转变成固定格式的 lua 代码。
+<!--more-->
 
 protobuf 结构：
 
