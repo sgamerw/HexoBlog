@@ -71,5 +71,5 @@ deploy:
   type: git
   repository:
       github: git@github.com:sgamerw/sgamerw.github.io.git
-      coding: git@git.coding.net:sgamerw/sgamerw.git
+    #   coding: git@git.coding.net:sgamerw/sgamerw.git
   branch: master
