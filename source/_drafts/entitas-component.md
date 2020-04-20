@@ -32,3 +32,4 @@ Public class IdComponent : IComponent
 }
 ```
 按照 ECS 原则，我们不给 Component 添加方法。
+我们可以根据是否具有某些 Component 来给 Entity 分组。
